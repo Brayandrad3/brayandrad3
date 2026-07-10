@@ -6,7 +6,7 @@ brayandrad3/brayandrad3 repository.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6b6b6b&height=210&section=header&text=Brayan%20Andrade&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20in%20the%20making%20%&descAlignY=53&descSize=16&descColor=E5E7EB" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6b6b6b&height=210&section=header&text=Brayan%20Andrade&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20in%20the%20making&descAlignY=53&descSize=16&descColor=E5E7EB" width="100%" />
 
 <a href="https://www.linkedin.com/in/brayan-andrad3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:brayanestivenandradecarrillo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -109,19 +109,43 @@ Advanced Laravel · Clean Architecture · REST API Design · Software Design Pat
 
 Practice builds from the ADSO program — each one sharpened a specific skill on the way to VetWilling:
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/Brayandrad3/Proyecto-Practico-Bootstrap-Responsive-HTML5-CSS3" target="_blank" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayandrad3&repo=Proyecto-Practico-Bootstrap-Responsive-HTML5-CSS3&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Brayandrad3/Taller-Practico-Web-Responsive-HTML-CSS-Y-JS" target="_blank" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayandrad3&repo=Taller-Practico-Web-Responsive-HTML-CSS-Y-JS&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Brayandrad3/Algoritmos-con-Js" target="_blank" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayandrad3&repo=Algoritmos-con-Js&theme=tokyonight&hide_border=true" />
-</a>
+**[Website Responsive Workshop](https://github.com/Brayandrad3/Brayandrad3-Taller-Practico-WebSite-Responsive-HTML-CSS-Y-JS)**
 
-</div>
+Hands-on workshop building a fully responsive website with vanilla HTML, CSS and JavaScript.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="33%" valign="top">
+
+**[Bootstrap Landing Page — Panto](https://github.com/Brayandrad3/Taller-Practico-Bootstrap-Landing-Page-Panto)**
+
+Landing page practice project focused on Bootstrap's grid system and component library.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**[Restaurant Management](https://github.com/Brayandrad3/restaurant-management-laravel)**
+
+Restaurant management system built with Laravel — orders, menu and data handled through a MySQL backend.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 More on my [portfolio](https://brayandrad3.github.io/Portafolio-web-personal/).
 
@@ -132,8 +156,8 @@ More on my [portfolio](https://brayandrad3.github.io/Portafolio-web-personal/).
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=brayandrad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayandrad3&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=brayandrad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brayandrad3&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brayandrad3&theme=tokyonight&hide_border=true" />
 
