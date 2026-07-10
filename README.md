@@ -61,7 +61,7 @@ It manages medical records, pet registration, appointment scheduling, inventory,
 My contributions went beyond code: requirements engineering, user research and surveys, the software requirements spec (SRS/ERS), UML and sequence diagrams, wireframes, UI design, the brand identity manual, and both frontend/backend implementation plus deployment.
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=WilliamSanchezR&repo=VETWILLING&theme=tokyonight&hide_border=true" />
+<img src="assets/vetwilling.png" width="500" />
 </div>
 
 <br>
@@ -111,13 +111,13 @@ Practice builds from the ADSO program — each one sharpened a specific skill on
 
 <div align="center">
 
-<a href="https://github.com/Brayandrad3/Proyecto-Practico-Bootstrap-Responsive-HTML5-CSS3">
+<a href="https://github.com/Brayandrad3/Proyecto-Practico-Bootstrap-Responsive-HTML5-CSS3" target="_blank" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayandrad3&repo=Proyecto-Practico-Bootstrap-Responsive-HTML5-CSS3&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Brayandrad3/Taller-Practico-Web-Responsive-HTML-CSS-Y-JS">
+<a href="https://github.com/Brayandrad3/Taller-Practico-Web-Responsive-HTML-CSS-Y-JS" target="_blank" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayandrad3&repo=Taller-Practico-Web-Responsive-HTML-CSS-Y-JS&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Brayandrad3/Algoritmos-con-Js">
+<a href="https://github.com/Brayandrad3/Algoritmos-con-Js" target="_blank" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brayandrad3&repo=Algoritmos-con-Js&theme=tokyonight&hide_border=true" />
 </a>
 
