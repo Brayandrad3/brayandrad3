@@ -6,7 +6,7 @@ brayandrad3/brayandrad3 repository.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=210&section=header&text=Brayan%20Andrade&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20in%20the%20making%20%&descAlignY=53&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6b6b6b&height=210&section=header&text=Brayan%20Andrade&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20in%20the%20making%20%&descAlignY=53&descSize=16&descColor=E5E7EB" width="100%" />
 
 <a href="https://www.linkedin.com/in/brayan-andrad3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:brayanestivenandradecarrillo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
