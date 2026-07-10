@@ -140,12 +140,11 @@ More on my [portfolio](https://brayandrad3.github.io/Portafolio-web-personal/).
 </div>
 
 <br>
-
+<!--
 ## 🏆 Certifications
-
 - [ ] Certification name — Issuer, Year
 - [ ] Certification name — Issuer, Year
-
+-->
 <br>
 
 ## 📫 Let's talk
